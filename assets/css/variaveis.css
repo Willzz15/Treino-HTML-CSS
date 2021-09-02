@@ -1,0 +1,8 @@
+:root {
+  --primary-color:#0e0f0d;
+  --white: #ffffff;
+  --light-gray-color: #eeeeee;
+  --gap: 3rem;
+  --secundari-color: violet;
+  --hover-color-button: rgba(135, 0, 50, 0.5);
+}
